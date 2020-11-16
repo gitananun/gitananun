@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning everything
 - 🥅 Goals: Develop, Develop, evaluate Progress!
-- ⚡ Fun fact: Push Yourself!
+- ⚡ Fun fact: Push Yourself and Code!
 
 ### Now Playing 🎧
 
