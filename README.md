@@ -49,7 +49,7 @@
 
 </details>
 
-[website]: https://wemax.dx.am
+[website]: http://wemax.dx.am
 [twitter]: https://twitter.com/TigranMF
 [instagram]: https://www.instagram.com/tigran.muradyann/
 [linkedin]: https://www.linkedin.com/in/tigran-muradyan-644062173/
