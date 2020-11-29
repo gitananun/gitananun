@@ -2,9 +2,7 @@
 
 ## I'm a Developer!
 
-- 🌱 I’m currently learning everything
-- 🥅 Goals: Develop, Develop, evaluate Progress!
-- ⚡ Fun fact: Push Yourself and Code!
+- 🌱 Everything you can imagine is real.
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="gitananun Spotify Playing" width="200" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
