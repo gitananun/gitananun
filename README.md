@@ -2,7 +2,7 @@
 
 ## I'm a Developer!
 
-- 🌱 Everything you can imagine is real.
+- 🌱 Do what no one else does' follow through.
 
 [<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="gitananun Spotify Playing" width="200" />](https://open.spotify.com/user/swyqyimdc12jajde4vpwd2x1b)
 
