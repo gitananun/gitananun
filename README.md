@@ -34,13 +34,6 @@
 
 ---
 
-<details>
-  <summary>:zap: GitHub Stats</summary>
-
-  <img align="left" alt="gitananun's GitHub Stats" src="https://github-readme-stats.codestackr.vercel.app/api?username=gitananun&show_icons=true&hide_border=true" />
-
-</details>
-
 [website]: http://wemax.dx.am
 [twitter]: https://twitter.com/TigranMF
 [instagram]: https://www.instagram.com/tigran.muradyann/
