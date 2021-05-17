@@ -1,4 +1,4 @@
-- Do what no one else does' follow through.
+*Do what no one else does' follow through.*
 
 ### Connect with me:
 
