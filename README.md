@@ -2,4 +2,4 @@
 
 ### Personal Website:
 
-[https://tigranmuradyan.com](tigranmuradyan.com)
+[tigranmuradyan.com](https://tigranmuradyan.com)
