@@ -2,4 +2,4 @@
 
 ### Personal Website:
 
-http://muradyan.netlify.app
+(muradyan.netlify.app)[http://muradyan.netlify.app]
