@@ -1,14 +1,5 @@
 **“If you're the smartest person in the room, you're in the wrong room.”**
 
-### Connect with me:
-
-[<img align="left" alt="wemax.dx.am" width="22px" src="https://raw.githubusercontent.com/iconic/open-iconic/master/svg/globe.svg" />][website]
-[<img align="left" alt="gitananun | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
-[<img align="left" alt="gitananun | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
-[<img align="left" alt="gitananun | Instagram" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/instagram.svg" />][instagram]
-
-<br />
-
 ### Languages and Tools:
 
 <img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
@@ -36,7 +27,7 @@
 
 ---
 
-[website]: http://wemax.dx.am
+[website]: http://muradyan.netlify.app
 [twitter]: https://twitter.com/TigranMF
 [instagram]: https://www.instagram.com/tigran.muradyann/
 [linkedin]: https://www.linkedin.com/in/tigran-muradyan-644062173/
