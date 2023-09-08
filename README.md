@@ -4,6 +4,6 @@
 
 [tigranmuradyan.com](https://tigranmuradyan.com)
 
-### 🚀 Check out my fantastic App Store and Google Play Store apps!
+### 🚀 Check out my fantastic app in App Store and Google Play!
 
 [stackoverboard.games](https://stackoverboard.games)
