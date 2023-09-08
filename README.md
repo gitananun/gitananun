@@ -4,6 +4,6 @@
 
 [tigranmuradyan.com](https://tigranmuradyan.com)
 
-### 🚀 Check out my project available both for iOS and Android!
+### 🚀 Explore my project, accessible on both iOS and Android platforms!
 
 [stackoverboard.games](https://stackoverboard.games)
